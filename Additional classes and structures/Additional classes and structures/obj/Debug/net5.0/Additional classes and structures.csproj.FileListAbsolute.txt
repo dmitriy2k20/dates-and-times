@@ -1,0 +1,16 @@
+C:\Users\ASUS TUF GAMING\source\repos\Additional classes and structures\Additional classes and structures\obj\Debug\net5.0\Additional classes and structures.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF GAMING\source\repos\Additional classes and structures\Additional classes and structures\obj\Debug\net5.0\Additional classes and structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF GAMING\source\repos\Additional classes and structures\Additional classes and structures\obj\Debug\net5.0\Additional classes and structures.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF GAMING\source\repos\Additional classes and structures\Additional classes and structures\obj\Debug\net5.0\Additional classes and structures.AssemblyInfo.cs
+C:\Users\ASUS TUF GAMING\source\repos\Additional classes and structures\Additional classes and structures\obj\Debug\net5.0\Additional classes and structures.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF GAMING\source\repos\Additional classes and structures\Additional classes and structures\bin\Debug\net5.0\Additional classes and structures.exe
+C:\Users\ASUS TUF GAMING\source\repos\Additional classes and structures\Additional classes and structures\bin\Debug\net5.0\Additional classes and structures.deps.json
+C:\Users\ASUS TUF GAMING\source\repos\Additional classes and structures\Additional classes and structures\bin\Debug\net5.0\Additional classes and structures.runtimeconfig.json
+C:\Users\ASUS TUF GAMING\source\repos\Additional classes and structures\Additional classes and structures\bin\Debug\net5.0\Additional classes and structures.runtimeconfig.dev.json
+C:\Users\ASUS TUF GAMING\source\repos\Additional classes and structures\Additional classes and structures\bin\Debug\net5.0\Additional classes and structures.dll
+C:\Users\ASUS TUF GAMING\source\repos\Additional classes and structures\Additional classes and structures\bin\Debug\net5.0\ref\Additional classes and structures.dll
+C:\Users\ASUS TUF GAMING\source\repos\Additional classes and structures\Additional classes and structures\bin\Debug\net5.0\Additional classes and structures.pdb
+C:\Users\ASUS TUF GAMING\source\repos\Additional classes and structures\Additional classes and structures\obj\Debug\net5.0\Additional classes and structures.dll
+C:\Users\ASUS TUF GAMING\source\repos\Additional classes and structures\Additional classes and structures\obj\Debug\net5.0\ref\Additional classes and structures.dll
+C:\Users\ASUS TUF GAMING\source\repos\Additional classes and structures\Additional classes and structures\obj\Debug\net5.0\Additional classes and structures.pdb
+C:\Users\ASUS TUF GAMING\source\repos\Additional classes and structures\Additional classes and structures\obj\Debug\net5.0\Additional classes and structures.genruntimeconfig.cache
